@@ -17,3 +17,21 @@ building software, AI/ML solutions, and practical applications.
 - Artificial Intelligence
 - Software Development
 - Data Analytics
+- 
+- ## Featured Projects
+
+### FixIt
+
+A platform designed to streamline the process of reporting and managing maintenance issues.
+
+**Focus:** Web Development, AI, Problem Solving
+
+[View Repository](https://github.com/Mmyz03/fixitt)
+
+### I-HEART
+
+An AI-based health risk prediction project focused on diabetes and cardiovascular disease.
+
+**Focus:** Machine Learning, Data Science, Artificial Intelligence
+
+[View Repository](https://github.com/Mmyz03/I-HEART)

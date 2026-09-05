@@ -84,3 +84,11 @@ An AI-based health risk prediction project focused on diabetes and cardiovascula
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+## About Me
+
+I'm Mohammed Mayiz, a Data Science student and beginner developer
+interested in building practical applications and exploring
+Artificial Intelligence, Machine Learning, and data-driven solutions.
+
+I enjoy learning by building projects, experimenting with new
+technologies, and improving my development skills through practice.

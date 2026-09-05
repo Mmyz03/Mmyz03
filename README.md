@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Mohammed Mayiz Profile Banner">
+  <img src="./banner.svg" width="100%" alt="Mohammed Mayiz animated banner">
 </p>
 # Mohammed Mayiz
 

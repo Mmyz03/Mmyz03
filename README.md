@@ -71,7 +71,7 @@ An AI-based health risk prediction project focused on diabetes and cardiovascula
 ## Connect With Me
 
 <p>
-  <a href="https://github.com/Mmyz03">
-    <img src="https://img.shields.io/badge/GitHub-Mmyz03-181717?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/mohammed-mayiz-mohtesham-800a6237a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

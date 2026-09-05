@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Mohammed Mayiz Profile Banner">
+</p>
 # Mohammed Mayiz
 
 ### Developer | AI/ML Enthusiast | Student

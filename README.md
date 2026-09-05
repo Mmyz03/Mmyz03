@@ -35,3 +35,36 @@ An AI-based health risk prediction project focused on diabetes and cardiovascula
 **Focus:** Machine Learning, Data Science, Artificial Intelligence
 
 [View Repository](https://github.com/Mmyz03/I-HEART)
+
+## Skills & Technologies
+
+### Programming Languages
+
+- Python
+- Java
+- C++
+
+### Web Development
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+
+### Data & AI
+
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+
+### Databases
+
+- SQL
+- MongoDB
+
+### Tools
+
+- Git
+- GitHub
+- VS Code

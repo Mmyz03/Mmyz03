@@ -68,9 +68,10 @@ An AI-based health risk prediction project focused on diabetes and cardiovascula
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
-## GitHub Stats
+## Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mmyz03&show_icons=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmyz03&layout=compact&theme=transparent" width="48%" />
+<p>
+  <a href="https://github.com/Mmyz03">
+    <img src="https://img.shields.io/badge/GitHub-Mmyz03-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>

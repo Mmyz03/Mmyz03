@@ -1,6 +1,12 @@
 <p align="center">
   <img src="./banner.svg" width="100%" alt="Mohammed Mayiz animated banner">
 </p>
+
+<h1 align="center">Mohammed Mayiz</h1>
+
+<p align="center">
+  Data Science Student | Beginner Developer
+</p>
 # Mohammed Mayiz
 
 ### Developer | AI/ML Enthusiast | Student

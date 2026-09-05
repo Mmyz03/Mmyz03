@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
 # Mohammed Mayiz
 
 ### Developer | AI/ML Enthusiast | Student

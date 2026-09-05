@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm Mohammed Mayiz!
 
-<!--
-**Mmyz03/Mmyz03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Developer | 🤖 AI/ML Enthusiast | 🎓 Student
 
-Here are some ideas to get you started:
+I love building projects, experimenting with new technologies,
+and turning ideas into real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on interesting software & AI projects
+- 🌱 Learning and improving my skills in development and AI/ML
+- 💡 Interested in building practical solutions to real-world problems
+- 🎯 Always trying to learn something new
+  

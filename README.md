@@ -1,16 +1,17 @@
-# 👋 Hey, I'm Mohammed Mayiz!
+# Mohammed Mayiz
 
-### 💻 Developer |  AI/ML Enthusiast |  Student
+### Developer | AI/ML Enthusiast | Student
 
-I love building projects, experimenting with new technologies,
-and turning ideas into real-world applications.
+I enjoy building software, exploring AI and machine learning,
+and turning ideas into practical applications.
 
----
+## About Me
 
-##  About Me
+I'm Mohammed Mayiz, a student and developer interested in
+building software, AI/ML solutions, and practical applications.
 
--  Currently working on interesting software & AI projects
--  Learning and improving my skills in development and AI/ML
--  Interested in building practical solutions to real-world problems
--  Always trying to learn something new
-  
+- Interested in software development
+- Exploring Artificial Intelligence and Machine Learning
+- Interested in data and technology
+- Building projects to improve my practical skills
+- Always learning and experimenting with new technologies

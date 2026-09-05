@@ -9,9 +9,11 @@ and turning ideas into practical applications.
 
 I'm Mohammed Mayiz, a student and developer interested in
 building software, AI/ML solutions, and practical applications.
+## Areas of Interest
 
-- Interested in software development
-- Exploring Artificial Intelligence and Machine Learning
-- Interested in data and technology
-- Building projects to improve my practical skills
-- Always learning and experimenting with new technologies
+- Web Development
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Software Development
+- Data Analytics

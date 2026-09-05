@@ -38,33 +38,32 @@ An AI-based health risk prediction project focused on diabetes and cardiovascula
 
 ## Skills & Technologies
 
-### Programming Languages
+### Programming
 
-- Python
-- Java
-- C++
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python" />
+</p>
 
 ### Web Development
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+</p>
 
 ### Data & AI
 
-- Data Science
-- Machine Learning
-- Artificial Intelligence
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
 ### Databases
 
-- SQL
-- MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### Tools
+### Tools & Platforms
 
-- Git
-- GitHub
-- VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>

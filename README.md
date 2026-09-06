@@ -7,26 +7,33 @@
 
 <td width="60%">
 
+<table>
+<tr>
+
+<td width="55%" valign="middle">
+
 ## About Me
 
 I'm Mohammed Mayiz, a Data Science student and beginner developer
 interested in Web Development, Data Science, Machine Learning,
 and Artificial Intelligence.
 
-I enjoy learning by building projects and improving my skills
-through practical work.
+I enjoy learning by building projects, experimenting with new
+technologies, and improving my development skills through practice.
+
+I'm currently focused on strengthening my programming,
+data science, and AI/ML skills by working on practical projects.
 
 </td>
 
-<td width="40%" align="center">
+<td width="45%" align="center" valign="middle">
 
-<img src="./about.gif" width="400">
+<img src="./about.gif" width="600" alt="Coding animation">
 
 </td>
 
 </tr>
 </table>
-
 ## Areas of Interest
 
 - Web Development

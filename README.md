@@ -2,10 +2,12 @@
   <img src="./header.svg" width="100%" alt="Mohammed Mayiz animated profile header">
 </p>
 
+
+
 <table>
 <tr>
 
-<td width="55%" valign="middle">
+<td width="60%">
 
 ## About Me
 
@@ -13,19 +15,21 @@ I'm Mohammed Mayiz, a Data Science student and beginner developer
 interested in Web Development, Data Science, Machine Learning,
 and Artificial Intelligence.
 
-I enjoy learning by building projects, experimenting with new
-technologies, and improving my development skills through practice.
+I enjoy learning by building projects and improving my skills
+through practical work.
 
 </td>
 
-<td width="45%" align="center" valign="middle">
+<td width="40%" align="center">
 
-<img src="./about.gif" width="600" alt="Coding animation">
+<img src="./about.gif" width="400">
 
 </td>
 
 </tr>
 </table>
+
+
 ## Areas of Interest
 
 - Web Development

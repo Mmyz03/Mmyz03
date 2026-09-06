@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Mohammed Mayiz animated banner">
-</p>
-
-<h1 align="center">Mohammed Mayiz</h1>
-
-<p align="center">
-  Data Science Student | Beginner Developer
+  <img src="./header.svg" width="100%" alt="Mohammed Mayiz animated profile header">
 </p>
 # Mohammed Mayiz
 

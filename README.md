@@ -5,11 +5,6 @@
 <table>
 <tr>
 
-<td width="60%">
-
-<table>
-<tr>
-
 <td width="55%" valign="middle">
 
 ## About Me
@@ -20,9 +15,6 @@ and Artificial Intelligence.
 
 I enjoy learning by building projects, experimenting with new
 technologies, and improving my development skills through practice.
-
-I'm currently focused on strengthening my programming,
-data science, and AI/ML skills by working on practical projects.
 
 </td>
 

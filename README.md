@@ -10,11 +10,12 @@
 
 ---
 
-## About Me
+<table>
+<tr>
 
-<p align="center">
-  <img src="./about.gif" width="500" alt="Coding animation">
-</p>
+<td width="55%" valign="middle">
+
+## About Me
 
 I'm Mohammed Mayiz, a Data Science student and beginner developer
 interested in Web Development, Data Science, Machine Learning,
@@ -25,6 +26,17 @@ technologies, and improving my development skills through practice.
 
 I'm currently focused on strengthening my programming,
 data science, and AI/ML skills through practical projects.
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+<img src="./about.gif" width="100%" alt="Coding animation">
+
+</td>
+
+</tr>
+</table>
 
 ---
 

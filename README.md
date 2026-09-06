@@ -1,17 +1,16 @@
 <p align="center">
   <img src="./header.svg" width="100%" alt="Mohammed Mayiz animated profile header">
 </p>
-# Mohammed Mayiz
-
-### Developer | AI/ML Enthusiast | Student
-
-I enjoy building software, exploring AI and machine learning,
-and turning ideas into practical applications.
 
 ## About Me
 
-I'm Mohammed Mayiz, a student and developer interested in
-building software, AI/ML solutions, and practical applications.
+I'm Mohammed Mayiz, a Data Science student and beginner developer
+interested in building practical applications and exploring
+Artificial Intelligence, Machine Learning, and data-driven solutions.
+
+I enjoy learning by building projects, experimenting with new
+technologies, and improving my development skills through practice.
+
 ## Areas of Interest
 
 - Web Development
@@ -20,7 +19,12 @@ building software, AI/ML solutions, and practical applications.
 - Artificial Intelligence
 - Software Development
 - Data Analytics
-- 
+
+- ### Developer | AI/ML Enthusiast | Student
+
+I enjoy building software, exploring AI and machine learning,
+and turning ideas into practical applications.
+
 - ## Featured Projects
 
 ### FixIt
@@ -78,11 +82,3 @@ An AI-based health risk prediction project focused on diabetes and cardiovascula
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-## About Me
-
-I'm Mohammed Mayiz, a Data Science student and beginner developer
-interested in building practical applications and exploring
-Artificial Intelligence, Machine Learning, and data-driven solutions.
-
-I enjoy learning by building projects, experimenting with new
-technologies, and improving my development skills through practice.

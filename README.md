@@ -20,7 +20,7 @@ through practical work.
 
 <td width="40%" align="center">
 
-<img src="./about.gif" width="300">
+<img src="./about.gif" width="400">
 
 </td>
 
